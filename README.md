@@ -1,6 +1,6 @@
-?_?_?_?_?_?_?_?_?_?_?Cтудент колледжа ПМК !
-__/ C++ grandmaster ^_^
-__/ Крутой чеееел
+✨Cтудент колледжа ПМК !
+✨C++ grandmaster ^_^
+✨Крутой чеееел
 
 <!---
 k11sann/k11sann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
