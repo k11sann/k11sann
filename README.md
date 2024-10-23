@@ -5,9 +5,6 @@
 <h2 align="center">Активно изучаю C++ на парах своих любимых преподавателей 
 и занимаюсь разработкой своего проекта на основе открытого исходного кода</h2>
 <h1 align="left">🌷 My friends</h1>
-
-## College friends
-
 <h2 align="left"> o <a href="https://github.com/maratik16">Malatik16</a></h2>
 <h2 align="left"> o <a href="https://github.com/ARTEEEMKAAA">ARTEMKAAAAA</a></h2>
 <h2 align="left"> o <a href="https://github.com/faritovnaaaaaia">faritovnaaa</a></h2>
