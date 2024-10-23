@@ -5,9 +5,9 @@
 Активно изучаю C++ на парах своих любимых преподавателей 
 и занимаюсь разработкой своего проекта на основе открытого исходного кода
 <h1 align="left">🌷 My friends</h1>
-<p>o <a href="https://github.com/maratik16">Malatik16</a></p>
-<p>o <a href="https://github.com/ARTEEEMKAAA">ARTEMKAAAAA</a></p>
-<p>o <a href="https://github.com/faritovnaaaaaia">faritovnaaa</a></p>
+<p>o <a href="https://github.com/maratik16" style="text-decoration: none;">Malatik16</a></p>
+<p>o <a href="https://github.com/ARTEEEMKAAA" style="text-decoration: none;">ARTEMKAAAAA</a></p>
+<p>o <a href="https://github.com/faritovnaaaaaia" style="text-decoration: none;">faritovnaaa</a></p>
 <!---
 k11sann/k11sann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
