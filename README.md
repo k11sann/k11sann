@@ -1,7 +1,6 @@
 # ![](https://github.com/k11sann/k11sann/blob/main/header.png) 
 # ✨ Cтудент колледжа ПМК !
-# ✨ C++ grandmaster ^_^
-# ✨ Крутой чеееел
+# ✨ C++ / Haxeflixel enjoyer
 
 
 <!---
