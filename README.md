@@ -1,5 +1,5 @@
 # ![](https://github.com/k11sann/k11sann/blob/main/header.png) 
-<h1 align="left" padding: 15px 15px 25px>🌷 Cтудент колледжа [ПМК](https://sielom.ru/pytach-college/sveden) !</h1>
+<h1 align="left">🌷 Cтудент колледжа <a href="https://sielom.ru/pytach-college/sveden">ПМК</a></h1>
 <h2 align="center">Специальности 'Информационные системы и программирование'</h2>
 <h1 align="left" padding: 15px 15px 25px>🌷 C++ / Haxeflixel enjoye</h1>
 <h2 align="center">Активно изучаю C++ на парах своих любимых преподавателей 
