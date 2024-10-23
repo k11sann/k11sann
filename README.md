@@ -8,9 +8,9 @@
 
 ## College friends
 
-<h2 align="left"> <a href="https://github.com/maratik16">Malatik16</a></h2>
-<h2 align="left"> <a href="https://github.com/ARTEEEMKAAA">ARTEMKAAAAA</a></h2>
-<h2 align="left"> <a href="https://github.com/faritovnaaaaaia">faritovnaaa</a></h2>
+<h2 align="left"> o <a href="https://github.com/maratik16">Malatik16</a></h2>
+<h2 align="left"> o <a href="https://github.com/ARTEEEMKAAA">ARTEMKAAAAA</a></h2>
+<h2 align="left"> o <a href="https://github.com/faritovnaaaaaia">faritovnaaa</a></h2>
 <!---
 k11sann/k11sann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
