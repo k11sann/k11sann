@@ -1,5 +1,5 @@
 # ![](https://github.com/k11sann/k11sann/blob/main/header.png) 
-# 🌷 Cтудент колледжа [ПМК](https://sielom.ru/pytach-college/sveden) !
+# 🌷 Cтудент колледжа [ПМК](https://sielom.ru/pytach-college/sveden) ! Информационные системы и программирование
 # 🌷 C++ / Haxeflixel enjoyer
 
 
