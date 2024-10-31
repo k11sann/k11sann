@@ -7,7 +7,7 @@
 Активно изучаю C++/Python на парах своих любимых преподавателей 
 и занимаюсь разработкой своего проекта на основе открытого исходного кода на Haxeflixel
 <h1 align="left">🤗 My friends</h1>
-<p>★ <a href="https://github.com/maratik16">Malatik16</a></p>
+<p>★ <a href="https://github.com/maratik16">maratik16 </a></p>
 <p>★ <a href="https://github.com/ARTEEEMKAAA" style="text-decoration: none;">ARTEEEMKAAA</a></p>
 <p>★ <a href="https://github.com/faritovnaaaaaia" style="text-decoration: none;">faritovnaaaaaia</a></p>
 <h1 align="left">🏆 My achievements</h1>
