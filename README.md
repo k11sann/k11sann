@@ -9,6 +9,7 @@
 <h1 align="left">🤗 My friends</h1>
 <p>★ <a href="https://github.com/maratik16">maratik16 </a></p>
 <p>★ <a href="https://github.com/ARTEEEMKAAA" style="text-decoration: none;">ARTEEEMKAAA</a></p>
+<p>★ <a href="https://github.com/Nicghvt" style="text-decoration: none;">Nicghvt</a></p>
 <p>★ <a href="https://github.com/faritovnaaaaaia" style="text-decoration: none;">faritovnaaaaaia</a></p>
 <h1 align="left">🏆 My achievements</h1>
 <p align="center"><img src="https://github.com/k11sann/k11sann/blob/main/mytimehaswasted.png" width=50% height=80% alt="ultratime..."></p>
