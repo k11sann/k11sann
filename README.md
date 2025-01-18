@@ -13,3 +13,4 @@
 <p>★ <a href="https://github.com/faritovnaaaaaia" style="text-decoration: none;">faritovnaaaaaia</a></p>
 <h1 align="left">🏆 My achievements</h1>
 <p align="center"><img src="https://github.com/k11sann/k11sann/blob/main/mytimehaswasted.png" width=50% height=80% alt="ultratime..."></p>
+<a href="https://github.com/k11sann/classworks">МЯУ</a>
