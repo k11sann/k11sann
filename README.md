@@ -4,7 +4,7 @@
 <p>★ Группа : ИС-22/9-П</p>
 <p>★ № курса : 3</p>
 <h1 align="left">💼 Учебная репрезитория •ᴗ•</h1>
-Доступ доступен лишь преподавателю [ <a href="https://github.com/k11sann/classworks">ССЫЛКА</a> ]
+Доступ лишь преподавателю [ <a href="https://github.com/k11sann/classworks">ССЫЛКА</a> ]
 <!---<h1 align="left">🤗 My friends</h1>
 <p>★ <a href="https://github.com/maratik16">maratik16 </a></p>
 <p>★ <a href="https://github.com/ARTEEEMKAAA" style="text-decoration: none;">ARTEEEMKAAA</a></p>
