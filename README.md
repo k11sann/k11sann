@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/k11sann/k11sann/blob/main/gt.png" width=100% height=100% alt="Welcome to my profile, cool guys!"></p>
+<!--<p align="center"><img src="https://github.com/k11sann/k11sann/blob/main/gt.png" width=100% height=100% alt="Welcome to my profile, cool guys!"></p>!--->
 <h1 align="left">🌷 Cтудент <a href="https://sielom.ru/pytach-college/sveden">ПМК</a></h1>
 <p>★ Специальность : Информационные системы и программирование</p>
 <p>★ Группа : ИС-22/9-П</p>
