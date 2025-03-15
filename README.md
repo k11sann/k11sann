@@ -1,1 +1,1 @@
-<img src="https://example.com/photo/low.jpg"> или <img src="photo/low.jpg">
+<img src="https://github.com/k11sann/k11sann/blob/main/173997306415902144.png">
